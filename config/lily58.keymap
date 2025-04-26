@@ -15,6 +15,7 @@
         kl_escape {
             bindings = <&kp ESC>;
             key-positions = <32 33>;
+            layers = <0>;
         };
 
         caps_word {
