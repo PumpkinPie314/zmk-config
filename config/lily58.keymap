@@ -77,13 +77,13 @@
             layers = <7>;
         };
 
-        combos_left_bottom- {
+        combos_left_bottom_minus {
             bindings = <&kp KP_SUBTRACT>;
             key-positions = <37 39 40>;
             layers = <7>;
         };
 
-        combos_left_bottom+ {
+        combos_left_bottom_plus {
             bindings = <&kp KP_PLUS>;
             key-positions = <37 38 40>;
             layers = <7>;
